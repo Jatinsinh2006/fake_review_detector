@@ -1,0 +1,27 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+env/
+ENV/
+
+# Large Datasets & Raw/Processed Data (GitHub file size limit bachane ke liye)
+data/raw/
+data/processed/
+
+# Heavy Model Checkpoints & Results (Agar GitHub storage limit exceed nahi karni)
+results/
+catboost_info/
+
+# IDE specific files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS generated files
+.DS_Store
+Thumbs.db
