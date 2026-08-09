@@ -174,6 +174,11 @@ Dashboard capabilities:
 
 ---
 
+# Dataset Resources
+## Fake Reviews Dataset: https://www.kaggle.com/datasets/mexwell/fake-reviews-dataset/data?utm_source=chatgpt.com
+## Deceptive Opinion Spam Corpus: https://www.kaggle.com/datasets/rtatman/deceptive-opinion-spam-corpus?utm_source=chatgpt.com
+## Amazon Review Data(📱 Electronics): https://mcauleylab.ucsd.edu/public_datasets/data/amazon_v2/categoryFiles/Electronics.json.gz
+
 # 📂 Project Structure
 
 ```text
